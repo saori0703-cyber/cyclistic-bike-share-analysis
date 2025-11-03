@@ -72,5 +72,36 @@ App engagement ↑ | Targeted offers & onboarding |
 ---
 
 ## 📁 Repository Structure
+📦 cyclistic-analysis
+┣ 📓 notebook.ipynb
+┣ 📊 figures/
+┣ 📁 data_sample/
+┗ README.md
+
+
+---
+
+## ✨ Skills Demonstrated
+
+- SQL-style data manipulation with Pandas  
+- Feature engineering (duration, weekday)
+- Data visualization (Seaborn/Matplotlib)
+- Business storytelling & recommendations
+- Product-thinking for subscription growth
+
+---
+
+## 🔗 Links
+
+| Item | Link |
+|---|---|
+Kaggle Notebook | (add URL) |
+GitHub Repo | (add URL) |
+Slides | (optional) |
+
+---
+
+## 🙌 Acknowledgements
+Data provided by Motivate International Inc. under license.
 
 
