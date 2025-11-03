@@ -95,9 +95,8 @@ App engagement ↑ | Targeted offers & onboarding |
 
 | Item | Link |
 |---|---|
-Kaggle Notebook | (add URL) |
-GitHub Repo | (add URL) |
-Slides | (optional) |
+Kaggle Notebook | (https://www.kaggle.com/code/saorishimizu/cyclistic-bike-share-analysis-google-data-analyt)|
+
 
 ---
 
